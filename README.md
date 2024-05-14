@@ -19,5 +19,5 @@ The application allows the user to choose from the following options:
 
 ## Basic Usage
 
-1. Clone the repository to your machine:
-
+1. Clone the repository to your machine
+2. Have fun!
